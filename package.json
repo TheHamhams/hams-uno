@@ -1,0 +1,26 @@
+{
+  "name": "hams-uno",
+  "displayName": "Hams Uno",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "CoreyHamren",
+  "repository": {
+    "type": "git",
+    "url": 
+  }
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hams-uno",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hams-uno-color-theme.json"
+      }
+    ]
+  }
+}
