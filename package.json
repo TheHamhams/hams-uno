@@ -6,8 +6,8 @@
   "publisher": "CoreyHamren",
   "repository": {
     "type": "git",
-    "url": 
-  }
+    "url": "https://github.com/TheHamhams/hams-uno"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
